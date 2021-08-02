@@ -5,7 +5,7 @@
 
 ## Projects
 
-* [<span style="color:Black">Walking Robot (2020.Sept~ 2020.Dec)</span>](https://google.com)
+* [<span style="color:Black">Self-Walking Robot (2020.Sept~ 2020.Dec)</span>](https://github.com/Hyunwoo-Park-Yonsei/self-walking_robot)
 * [<span style="color:Black">End to End Driving (2021.Jan~ 2021.Feb)</span>](https://google.com)
 * [<span style="color:Black">Carla simulator rule based auto driving (2021.Mar~ 2021.May)</span>](https://google.com)
 * [<span style="color:Black">Curator Drone (2021.Mar~ 2021.Jun)</span>](https://google.com)
