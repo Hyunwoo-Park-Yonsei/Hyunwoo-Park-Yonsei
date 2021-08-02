@@ -18,6 +18,7 @@
 [![Python]](https://www.python.org/)
 [![C++]](https://isocpp.org/)
 [![C]](https://en.cppreference.com/w/c)
+[![Matlab Simulink]](https://kr.mathworks.com/products/matlab.html)
 
 ## Libraries & Frameworks
 [![ROS]](https://www.ros.org/)
@@ -35,6 +36,7 @@
 
 [![Carla]](https://carla.org/)
 
+
 ## OS
 
 [![Ubuntu]](https://ubuntu.com/)
@@ -51,6 +53,8 @@
 
 <!-- Body -->
 
+
+[Matlab Simulink]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=Yellow&logoColor=a8b9cc&label=&message=Matlab_Simulink
 
 [c]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=a8b9cc&logoColor=a8b9cc&label=&message=C&logo=c&#A8B9CC
 [c++]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=C%2B%2B&logo=c%2B%2B&#00599C
