@@ -22,6 +22,7 @@
 ## Libraries & Frameworks
 [![ROS]](https://www.ros.org/)
 [![numpy]](https://www.numpy.org)
+[![opencv]](https://www.opencv.org)
 
 [![TensorFlow]](https://www.tensorflow.org/)
 [![Keras]](https://keras.io/)
@@ -53,6 +54,8 @@
 [c++]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=C%2B%2B&logo=c%2B%2B&#00599C
 [ROS]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=ROS&logo=Ros
 [numpy]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=numpy&logo=numpy
+[opencv]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=a8b9cc&logoColor=a8b9cc&label=&message=Opencv&logo=opencv
+
 
 [keras]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=d00000&logoColor=d00000&label=&message=Keras&logo=keras&#D00000
 [pandas]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=150458&logoColor=150458&label=&message=Pandas&logo=pandas&#150458
