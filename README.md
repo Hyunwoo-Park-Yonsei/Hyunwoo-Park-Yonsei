@@ -11,7 +11,7 @@
 * [<span style="color:Black">Curator Drone (2021.Mar~ 2021.Jun)</span>](https://github.com/Hyunwoo-Park-Yonsei/Curator_Drone)
 * [<span style="color:Black">Rule based auto driving (Dev course) (2021.May~ 2021.Jun)</span>](https://github.com/Hyunwoo-Park-Yonsei/Programmers-Dev_Auto-Pilot)
 * [<span style="color:Black">Path planning with simple C++ game (2021.Jun~ 2021.Jul)</span>](https://github.com/Hyunwoo-Park-Yonsei/Simple_Path_Planning)
-* [<span style="color:Black">Path planning in RVIZ (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/Path_Planning_Algorithms)
+* [<span style="color:Black">Path planning in RVIZ (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/Path_Planning_RVIZ)
 
 
 ## Languages
