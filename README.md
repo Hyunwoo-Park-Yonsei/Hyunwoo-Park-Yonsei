@@ -13,6 +13,7 @@
 ## Side Projects & Studying
 
 * [<span style="color:Black">Path planning in RVIZ (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/Path_Planning_RVIZ)
+* [<span style="color:Black">RRT* - Dubins path (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/RRT_Star-Dubins_Path)
 * [<span style="color:Black">Carla simulator rule based auto driving (2021.Mar~ 2021.May)</span>](https://github.com/Hyunwoo-Park-Yonsei/Carla_simulator)
 * [<span style="color:Black">End to End Driving (2021.Jan~ 2021.Feb)</span>](https://github.com/Hyunwoo-Park-Yonsei/END2END_Driving)
 * [<span style="color:Black">Rule based auto driving (Grepp-Xytron) (2021.May~ 2021.Jun)</span>](https://github.com/Hyunwoo-Park-Yonsei/Programmers-Dev_Auto-Pilot)
