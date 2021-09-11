@@ -1,7 +1,8 @@
 # **_Hyunwoo-Park_**
 
-[![Resume]](https://drive.google.com/file/d/13uc2Mj-OJG8HV185IKP2gZXvjbWAErWq/view?usp=sharing)
+[![Resume]](https://drive.google.com/file/d/1MB9IoHjnWaEpSXLIeQqBhhQ6t4BRQJ1Q/view?usp=sharing)
 [![Youtube]](https://www.youtube.com/channel/UCX58VujjF3idAiFY1lEnFuw)
+[![linkedin]](https://www.linkedin.com/in/hyun-woo-park-7b782a158/)
 
 ## Personal Projects
 
@@ -59,6 +60,7 @@
 
 [resume]: https://img.shields.io/static/v1?style=for-the-badge&color=000000&logoColor=ffffff&label=&message=Resume&logo=notion&#000000
 [youtube]: https://img.shields.io/static/v1?style=for-the-badge&color=red&logoColor=ffffff&label=&message=Youtube&logo=youtube
+[linkedin]: https://img.shields.io/static/v1?style=for-the-badge&color=329&logoColor=fffdff&label=&message=Linkedin&logo=linkedin&#000000
 
 <!-- Body -->
 
