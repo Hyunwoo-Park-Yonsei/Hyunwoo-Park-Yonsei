@@ -8,6 +8,7 @@
 * [<span style="color:Black">Self-Walking Robot (2020.Sept~ 2020.Dec)</span>](https://github.com/Hyunwoo-Park-Yonsei/self-walking_robot)
 * [<span style="color:Black">Path planning with simple C++ game (2021.Jun~ 2021.Jul, 2021.Sept ~ Sept)</span>](https://github.com/Hyunwoo-Park-Yonsei/Simple_Path_Planning)
 * [<span style="color:Black">Auto-pilot driving only using lidar sensor (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/Grepp-Xytron_Auto-Pilot3)
+* [<span style="color:Black">Rule based auto driving (Grepp-Xytron) (2021.May~ 2021.Jun)</span>](https://github.com/Hyunwoo-Park-Yonsei/Programmers-Dev_Auto-Pilot)
 * [<span style="color:Black">Path planning & SLAM (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/Grepp-Xytron_Auto-Pilot2)
 
 ## Side Projects & Studying
@@ -16,7 +17,7 @@
 * [<span style="color:Black">RRT* - Dubins path (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/RRT_Star-Dubins_Path)
 * [<span style="color:Black">Carla simulator rule based auto driving (2021.Mar~ 2021.May)</span>](https://github.com/Hyunwoo-Park-Yonsei/Carla_simulator)
 * [<span style="color:Black">End to End Driving (2021.Jan~ 2021.Feb)</span>](https://github.com/Hyunwoo-Park-Yonsei/END2END_Driving)
-* [<span style="color:Black">Rule based auto driving (Grepp-Xytron) (2021.May~ 2021.Jun)</span>](https://github.com/Hyunwoo-Park-Yonsei/Programmers-Dev_Auto-Pilot)
+
 * [<span style="color:Black">Curator Drone (2021.Mar~ 2021.Jun)</span>](https://github.com/Hyunwoo-Park-Yonsei/Curator_Drone)
 
 ## Languages
