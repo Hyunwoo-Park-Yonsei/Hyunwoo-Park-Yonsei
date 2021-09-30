@@ -20,6 +20,7 @@
 
 ## Side Projects & Studying
 
+* [<span style="color:Black">MPC (2021.Sept~ )</span>](https://github.com/Hyunwoo-Park-Yonsei/MPC)
 * [<span style="color:Black">Path planning in RVIZ (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/Path_Planning_RVIZ)
 * [<span style="color:Black">RRT* - Dubins path (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/RRT_Star-Dubins_Path)
 * [<span style="color:Black">Curator Drone (2021.Mar~ 2021.Jun)</span>](https://github.com/Hyunwoo-Park-Yonsei/Curator_Drone)
