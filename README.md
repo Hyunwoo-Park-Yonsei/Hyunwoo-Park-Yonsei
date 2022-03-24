@@ -7,6 +7,7 @@
 
 ## Personal Projects
 
+* [<span style="color:Black">Game Theory Based AD in heavy traffic using MPC (2021.Sept~ )</span>](https://github.com/Hyunwoo-Park-Yonsei/MPC_Based_Planning_Control_Game_Theory)
 * [<span style="color:Black">Autonomous Walking Robot (2020.Sept~ 2020.Dec)</span>](https://github.com/Hyunwoo-Park-Yonsei/self-walking_robot)
 * [<span style="color:Black">Path planning with simple C++ game (2021.Jun~ 2021.Jul, 2021.Sept ~ Sept)</span>](https://github.com/Hyunwoo-Park-Yonsei/Simple_Path_Planning)
 * [<span style="color:Black">Carla simulator rule based Autonomous driving (2021.Mar~ 2021.May)</span>](https://github.com/Hyunwoo-Park-Yonsei/Carla_simulator)
@@ -20,7 +21,7 @@
 
 ## Side Projects & Studying
 
-* [<span style="color:Black">MPC (2021.Sept~ )</span>](https://github.com/Hyunwoo-Park-Yonsei/MPC)
+
 * [<span style="color:Black">Path planning in RVIZ (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/Path_Planning_RVIZ)
 * [<span style="color:Black">RRT* - Dubins path (2021.Aug~ 2021.Aug)</span>](https://github.com/Hyunwoo-Park-Yonsei/RRT_Star-Dubins_Path)
 * [<span style="color:Black">Curator Drone (2021.Mar~ 2021.Jun)</span>](https://github.com/Hyunwoo-Park-Yonsei/Curator_Drone)
