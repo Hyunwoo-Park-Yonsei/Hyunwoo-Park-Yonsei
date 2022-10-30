@@ -81,7 +81,6 @@
 [pandas]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=150458&logoColor=150458&label=&message=Pandas&logo=pandas&#150458
 
 [python]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=3776ab&logoColor=3776ab&label=&message=Python&logo=python&#3776AB
-[scikit-learn]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=f7931e&logoColor=f7931e&label=&message=scikit-learn&logo=scikit-learn&#F7931E
 [tensorflow]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=ff6f00&logoColor=ff6f00&label=&message=TensorFlow&logo=tensorflow&#FF6F00
 [typescript]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=3178c6&logoColor=3178c6&label=&message=TypeScript&logo=typescript&#3178C6
 [vscode]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=007acc&logoColor=007acc&label=&message=Visual%20Studio%20Code&logo=visual-studio-code&#007ACC
