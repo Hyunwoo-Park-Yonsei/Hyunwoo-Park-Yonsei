@@ -40,9 +40,6 @@
 
 [![TensorFlow]](https://www.tensorflow.org/)
 [![Keras]](https://keras.io/)
-[![scikit-learn]](https://scikit-learn.org/stable/)
-[![Pandas]](https://pandas.pydata.org/)
-
 [![SFML]](https://www.sfml-dev.org/)
 
 ## Simulations
