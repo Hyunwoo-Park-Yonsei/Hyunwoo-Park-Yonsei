@@ -38,10 +38,6 @@
 [![numpy]](https://www.numpy.org)
 [![opencv]](https://www.opencv.org)
 
-[![TensorFlow]](https://www.tensorflow.org/)
-[![Keras]](https://keras.io/)
-[![SFML]](https://www.sfml-dev.org/)
-
 ## Simulations
 
 [![Carla]](https://carla.org/)
